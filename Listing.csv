@@ -1,0 +1,818 @@
+id,name,host_id,PriceSeq,Price,ReviewSeq,ReviewScore,NBSeq
+8521,"SunsplashedSerenity walk to Harvard & Fresh Pond",306681,2,150.00,5,94,13
+11169,"Lovely Studio Room: Thu-Mons, Near Universities",40965,2,112.00,5,95,8
+11945,"Near Harvard: Safe & Lovely Room",40965,1,82.00,5,98,8
+19581,"Furnished suite, Windsor",74249,1,98.00,3,80,11
+22006,"B & B near Harvard's Quad Houses",84280,2,110.00,5,96,7
+24063,"Riverbend Bed and Breakfast",96414,2,110.00,5,97,13
+26531,"CENTRAL LOCATION IN HEART OF CAMBRIDGE",87398,3,200.00,3,80,9
+27498,"Furnished suite 2 @ the Windsor",74249,2,123.00,4,88,11
+79762,"Cambridge Getaway @ Harvard & MIT",430015,4,250.00,5,97,11
+106474,"large furnished suite in Central sq",74249,2,138.00,5,96,11
+108898,"The Treehouse :  Elegant living near Harvard",306681,3,180.00,5,93,13
+219471,"A+ Clean & Safe 1Br @ MIT, Kendall, Back Bay",444945,4,240.00,4,89,4
+326170,"Two-room suite near Harvard Univ. with parking",1665697,1,80.00,5,97,1
+405144,"Apartment in Harvard's Backyard",2018955,3,165.00,5,95,6
+445407,"East Cambridge Apartment",2212429,5,300.00,5,99,12
+456429,"Elegant Airy Comfort. Workspace. Private Entrance.",2244099,5,350.00,5,99,8
+577384,"Large Room with Shared Bath",229956,1,33.00,5,92,11
+675441,"Waterfront-1 Bed Room Luxury Condo",3423245,3,180.00,5,93,5
+715532,"Quiet, Artistically Decorated Cambridge Apartment",3673828,3,200.00,5,98,8
+742574,"See Yourself in Central Square",1152305,2,150.00,5,92,4
+860634,"Home on quiet street near Harvard",4507945,1,70.00,5,98,1
+910408,"Full Term Housing in Mid Cambridge MA!",4883794,1,100.00,5,96,6
+1054635,"Sunny, lg 1-br, heart of Cambridge",3087212,2,125.00,5,98,6
+1067104,"Harvard Tufts MIT: Artist's Home",5871398,1,84.00,5,100,8
+1088876,"#17-1 Big 1 BR in Harvard Sq.!",1461240,3,165.00,4,90,9
+1097262,"Harvard/MIT/BU/Central Square Room",6030020,1,70.00,5,95,4
+1140201,"Great Room Near Harvard/MIT/BU",6030020,1,70.00,5,94,4
+1141088,"MIT/Harvard/Inman- 2 Bedroom Apt.",2530211,3,179.00,5,94,12
+1143701,"Luxury Cambridge Apartment",6203069,2,125.00,5,97,8
+1154298,"Quiet private room in N. Cambridge",6325607,1,65.00,5,93,8
+1193875,"Large Downstairs Room",229956,1,32.00,4,90,11
+1200294,"Small Downstairs Room",229956,1,25.00,4,89,11
+1203031,"Corner Room in Shared Apt",229956,1,34.00,4,88,11
+1215512,"Minutes to Harvard Square",2066283,3,166.00,5,99,10
+1216161,"Spacious townhouse in Cambridge, MA",6636728,2,135.00,5,100,6
+1225831,"Victorian Charm MIT/Harvard/Kendall/Central-1BR",3380576,2,113.00,5,97,11
+1257229,"Lovely Room Near Porter & Harvard",6839881,1,48.00,3,80,7
+1276962,"Cambridge Apt, walk to MIT, Harvard",6122485,4,214.00,5,98,11
+1330779,"Huron Village Lower Unit Harvard Sq",4642626,3,200.00,5,97,7
+1341022,"Long term only, Modern Entire Condo MIT/MGH $3600",6619766,2,134.00,5,98,11
+1404377,"Renovated Brownstone - MIT/Kendall",7579202,2,140.00,5,98,5
+1406416,"City living at its finest!",7579202,2,140.00,5,97,5
+1444324,"Large 2 Bedroom short ride to Harvard",2356643,2,148.00,4,85,3
+1450370,"Lovely Room in Cambridge. Close to Subway!!",6839881,1,72.00,3,80,7
+1619471,"Charming Room Near Harvard Square",8530114,2,140.00,5,99,6
+1619859,"Entire 1BR Harvard Sq / Porter Sq",23078,2,120.00,3,80,7
+1632003,"2 Cozy Rooms Near Harvard Square",8530114,3,173.00,5,99,6
+1711476,"Serene & cozy 1BR oasis, walk to  Harvard Square!",3402394,1,90.00,5,96,6
+1799157,"Cambridge Long-Term Large Room",7757356,1,65.00,5,97,10
+1840256,"Lux 1 Bedroom Cambridge Apt by MIT",9419684,2,129.00,5,94,2
+1855969,"Lux 2 Bedroom Cambridge Apt by MIT",9419684,3,162.00,5,99,5
+1881771,"It's home, Cambridge! (2BD/2BT)",9796499,3,180.00,5,94,4
+1893287,"Bright Convenient Apt Harvard / MIT",9553483,2,145.00,5,98,11
+1935343,"Cute, clean & it?€?s all yours-1 bed- great location",10014448,2,145.00,5,95,4
+1984737,"Charming Harvard Victorian",8824696,4,246.00,5,95,13
+2030680,"Cozy Room in a Charming Townhouse",10427720,2,125.00,5,98,10
+2038283,"Stay Across from Harvard's Campus!",4521987,2,106.00,5,96,6
+2176599,"Lux 1 Bedroom Cambridge Apt by MIT",9419684,3,155.00,5,96,5
+2223447,"HarvardSq. Bright&Quiet 1 BdrApt MONTHLY/LONG TERM",7421025,1,95.00,5,92,6
+2244415,"???Harvard???MIT???Parking ???Clean???Quiet???Full Apartment???",3668535,5,329.00,5,93,6
+2451591,"Large Master Bedroom + Full Private Bath",12535522,2,129.00,5,95,4
+2538983,"Spacious 2 bedrooms Apt-Roof deck NO Cleaning fee",13000172,4,213.00,5,97,4
+2580942,"Cambridge Getaway @ MIT and Harvard",430015,4,250.00,5,98,11
+2642323,"Huron Village Upper Unit Harvard Sq",4642626,3,200.00,5,94,3
+2692752,"Country home in the city center.",6501896,1,95.00,5,95,4
+2798096,"Spacious and luxurious condo in Porter Square",8100967,5,260.00,0,0,8
+2879039,"Lux 1 Bedroom Cambridge Apt by MIT",9419684,3,155.00,5,96,2
+2914111,"Friendly Pleasant Place",14883738,2,108.00,5,95,4
+3234995,"Lovely, large 3 room apartment",10470174,5,300.00,5,98,13
+3247833,"Lovely East Cambridge Apartment",2212429,3,166.00,5,96,12
+3316734,"Quiet 3rd fl, lovely light, lofted full mattress",9939488,1,57.00,5,92,7
+3334098,"WELL-APPOINTED, BRIGHT AND SPACIOUS",5331227,3,185.00,5,98,5
+3352446,"Near Harvard/MIT/Tufts: Pet OK, backyard, lovely!",3842820,3,189.00,5,100,10
+3375100,"21 - Near Harvard,Sun-filled,Queen bed",17028791,1,40.00,4,84,13
+3434822,"Harvard MIT: Artist's Home",5871398,1,84.00,5,98,8
+3474824,"Quiet Studio near MIT, Harvard & BU",5074009,2,147.00,5,97,4
+3475883,"Queen Bed (Liz) at Waterbridge",1152305,1,65.00,5,98,10
+3510127,"Harvard/MIT/Single/Private 1/2 Bath",9270106,1,55.00,5,96,11
+3554581,"Nice light lofted 3rd floor corner room.",9939488,1,55.00,5,96,7
+3610778,"Private Room with Bunk Bed near Harvard/MIT",4297079,1,85.00,5,96,5
+3649162,"Walk to MIT or Harvard!  Perfect for a family",18446559,4,210.00,5,100,4
+3652550,"#34-2 Charming Apt in Porter Sq!",1461240,3,185.00,4,90,7
+3684345,"Lux 2 Bedroom Cambridge Apt by MIT",9419684,3,191.00,5,95,5
+3740822,"Lux 2BR Cambridge Apt by MIT",9419684,3,179.00,5,95,5
+3774900,"City Oasis |Deck & Yard |Walk To Harvard MIT Train",6823717,2,101.00,5,96,4
+3796979,"#34-1 Great apartment in Cambridge!",1461240,3,165.00,5,92,7
+3894437,"Lovely Studio in Cambridge -- Great Location",6839881,2,122.00,5,100,7
+3945567,"Peaceful One-Bedroom Apartment",20446189,2,140.00,5,98,8
+3966829,"Sunny Base close to MIT",20414167,3,160.00,5,94,11
+4057005,"Nice 3BR Private Apt, W/D, Walk to Harvard/Shops",17028791,2,119.00,0,0,13
+4112094,"Cambridge Studio Apartment",404360,2,120.00,5,91,13
+4116478,"Great House in Central Square",4578066,5,350.00,5,93,4
+4209359,"1B PRIVATE STUDIO APT! HARVARD/MIT+REDUCED",81038,2,110.00,5,99,6
+4216908,"Quiet home near Porter, Harvard. On Red Line",21885217,4,225.00,5,99,8
+4235636,"Cozy Room in a Charming Townhouse",10427720,2,125.00,5,97,10
+4270619,"Sunny 3 Bdr corner luxury apartment",21631889,5,251.00,5,96,11
+4338244,"Lux Kendall Square 1 Bedroom w/gym, WiFi",9419684,3,160.00,5,100,5
+4363059,"3BR Private Apt, 1 Mile To Harvard, Walk To Stores",17028791,2,115.00,4,86,13
+4437529,"Lux 2BR Cambridge Apt by MIT",9419684,4,205.00,5,91,5
+4437789,"Lux 1 Bedroom Cambridge Apt by MIT",9419684,3,160.00,4,90,5
+4455298,"Family Friendly 3 Bedroom",21631889,5,282.00,5,97,11
+4489577,"Lux 1 Bedroom Cambridge Apt by MIT",9419684,3,155.00,4,90,5
+4736800,"Harvard & MIT- Sweet Retreat in Coolest Cambridge!",10732627,2,136.00,5,97,6
+4753390,"Live Large in Transformable Studio",21631889,3,153.00,5,96,11
+4759313,"Private Apartment - enjoy the space",24302173,3,179.00,5,98,10
+4824130,"Cambridge Modern Living",1800647,1,76.00,0,0,13
+4841421,"Huge classy 3BR Apt w/parking, sleeps 7",8618392,4,250.00,5,92,4
+4894617,"Large, cozy 1BD in awesome location",25187338,1,80.00,0,0,4
+4921626,"Private apartment",24302173,3,170.00,0,0,10
+4924035,"Cambridge Long-Term Spacious Room",7757356,1,67.00,5,100,10
+4932029,"Garden-level one-bedroom apartment",25407755,2,135.00,5,99,8
+4954584,"Elegant contemporary 2Br",21631889,4,248.00,5,97,11
+4956321,"Charming Third Floor Apartment",25547444,2,145.00,5,99,1
+4958294,"HOLIDAY IN HARVARD SQUARE. EASY COMMUTE TO BOSTON",87398,3,179.00,5,91,7
+5016234,"Bright, Beautiful 2 Bed 2 Bath near Kendall/MIT",7388427,2,108.00,5,100,12
+5051452,"Harvard-Central Studio loft with rooftop",22648706,3,198.00,4,85,6
+5320198,"Comfy, rm Harvard Sq w Pvt. Ent/bth",7704595,1,60.00,0,0,13
+5365197,"Cozy Bedroom nr Harvard/MIT/Kendall",2861941,1,100.00,5,99,6
+5666988,"Sunny 3BD House near Harvard Square",19742431,5,410.00,5,99,13
+5680028,"Colonial home near Harvard Square in Cambridge",24498919,3,195.00,5,100,13
+5705842,"Lux Corner 2Br near MIT/Kendall",21631889,5,253.00,5,97,11
+5791244,"Sunny Huron Village Apt. w/ Terrace",30045286,3,181.00,5,98,13
+5811422,"Studio-type space near Central Square",12576232,1,70.00,4,88,11
+5857136,"Lovely apt easy walk to Harvard Sq",1260886,3,195.00,5,97,7
+5870441,"Lux Furnished Cambridge 1-BR Apartment",30283594,3,199.00,5,100,5
+6013381,"Modern Spacious 1BR | Kitchen + Work Desk | by GLS",30283594,3,159.00,3,80,5
+6106691,"Luxury Harvard/MIT Victorian",8824696,4,201.00,5,95,13
+6185544,"Sunny 3 bed/2 bath-5 min to T- Harvard/MIT/Boston",21745230,3,189.00,5,97,8
+6363476,"?????? Dwell Well In A Philadelphia-Style Apartment ??????",33155440,5,283.00,5,100,1
+6365545,"32 - Quiet , comfortable and quaint private room.",17028791,1,50.00,4,83,13
+6374780,"Big 2 bedroom, steps to Davis Sq",25354687,3,171.00,5,100,8
+6385215,"2BRM  with Parking - near Harvard & Porter Sq",22200553,2,110.00,5,93,7
+6397721,"Lux Kendall Square 1 Bedroom w/gym, WiFi",9419684,2,129.00,5,96,5
+6404336,"Private Entrance Room in Cambridge",33401056,1,70.00,5,99,12
+6432362,"Top floor apt with deck-brand new kitchen!",294279,5,310.00,4,90,4
+6434394,"2BR Walk to Harvard/MIT/Red Line T",24415419,4,249.00,4,86,11
+6473781,"Single family house / Cambridgeport",33820072,5,550.00,5,95,4
+6635782,"Harvard Square: Historic & Cheerful",34732627,5,307.00,5,98,1
+6660580,"Warm and welcoming",34862036,1,88.00,5,98,6
+6662157,"Sunny+Spacious +AC/walk to T Davis/Porter/Harvard",30719211,5,385.00,5,99,8
+6702823,"Guest room @ Harvard/MIT Central Sq",25012699,1,91.00,5,96,6
+6759024,"Modern Furnished 2-Bedroom Apt in Kendall Square",30283594,5,259.00,5,100,5
+6761641,"Monthly Pet Friendly Cozy & Relaxed Near Radcliffe",3616967,5,350.00,3,80,13
+6847242,"Smack dab between Harvard+Porter 2",35879509,1,90.00,5,100,7
+6947733,"Smack dab between Harvard + Porter!",35879509,1,90.00,5,99,7
+6949378,"Spacious 2BR | Kitchen |Work Desk | Kendall Square",30283594,5,329.00,4,89,5
+7007117,"Room near Alewife Red Line T stop.",21745230,1,60.00,5,98,8
+7031423,"Cambridge Cottage - Garden Room",34875728,1,61.00,5,97,12
+7080737,"WALK EVERYWHERE Heart of Harvard-MIT Private Room",3668535,2,149.00,5,96,9
+7094503,"Steps away from Harvard, Inman Sq",34862036,1,84.00,5,98,6
+7135000,"Good Location, Lovely room in Cambridge",6839881,1,64.00,5,100,7
+7401198,"Convenient & Cozy in Cambridgeport",90117,2,113.00,5,99,4
+7490808,"Cozy Room 10min from MIT/Harvard",26994991,1,65.00,5,100,5
+7508244,"PrivateRoom 10min MIT/Harvard !!!",26994991,1,65.00,5,100,5
+7522561,"2Br Lux Apt near Fresh Pond/Harvard",21631889,4,239.00,5,97,7
+7573492,"Harvard Cambridge Large room",6438360,1,34.00,5,95,7
+7729257,"Big sunny artist's 1BR near Harvard",3402394,2,120.00,5,96,6
+7774831,"Charming house in Cambridge C33W",12576232,1,50.00,5,95,11
+7843046,"Your Own Private Bedroom, Bathroom AND Living Room",3917069,2,129.00,5,100,8
+7872594,"Charming 1 bed loft-Walk to Harvard",40531643,2,114.00,5,98,6
+7881324,"Bright Loft-Walk to Harvard",40531643,2,118.00,5,99,6
+7883909,"Walk to Harvard- modern studio",40531643,2,142.00,5,97,6
+7884541,"Stroll to Beautiful Harvard Square",40531643,1,90.00,5,99,6
+7886699,"New Modern Studio-Walk to Harvard",40531643,1,86.00,5,100,6
+8059830,"2Br Harvard/Fresh Pond Lux Apt",21631889,3,189.00,5,95,7
+8064641,"Spacious+ Clean 1BR | Work Desk | Kendall Square",30283594,3,163.00,5,100,5
+8100480,"Mid-Cambridge Apt in Great location",16907229,2,109.00,5,97,6
+8129338,"7 minute walk to Boston & subway",42927628,1,76.00,5,97,5
+8151702,"Top flr lux apt near MIT/Harvard",21631889,5,261.00,5,95,11
+8308492,"4BR+3BA: MIT/Harvard/Fenway Park/Longwood Med/BU",17476640,4,243.00,5,92,4
+8308744,"Private room and bath, walk to Harvard & MIT",43805765,1,95.00,5,99,4
+8703760,"Historic, Sunny & Updated By Harvard Square!",23983523,1,50.00,5,92,6
+8758789,"Perfect  Location between Harvard and MIT.",22020193,4,213.00,4,88,11
+8866753,"Lovely room: walk to  Harvard Square with parking",33317063,1,85.00,5,98,6
+8882029,"Convenient private Cambridge apt 1",9575352,1,28.00,0,0,11
+8984099,"Convenient private Cambridge apt 2",9575352,1,28.00,0,0,11
+8988749,"Private bedroom/office in Cambridge",44173387,2,110.00,5,98,4
+9300963,"Tufts, MIT, Harvard, Davis & Porter Sq. Cambridge!",21103602,2,150.00,5,100,8
+9341968,"1BR duplex, walking distance to Harvard Sq.",33963271,2,130.00,5,94,7
+9371115,"ENJOY CAMBRIDGE THIS SUMMER AND BEYOND. SLEEPS 8+",42617851,5,528.00,4,90,1
+9729190,"A Room at the Top-separate entrance, private bath",2158200,2,125.00,5,97,7
+9790965,"Cambridge Bed and Bath",50462187,1,91.00,5,97,7
+9938323,"One Bedroom Between Harvard & MIT (1562)",51079261,3,181.00,5,96,4
+9940720,"One Bedroom Short Walk to Harvard (RM 10)",51079261,4,208.00,5,95,6
+10041951,"Central Square Studio w Balcony",5331227,1,75.00,5,100,6
+10052642,"Lux Furnished 1-Bedroom Cambridge Apartment!",30283594,3,199.00,5,100,5
+10052826,"Furnished LUX 1-Bedroom Cambridge Apartment!",30283594,3,199.00,4,90,5
+10066136,"Spacious Kendall Square 1BR | Kitchen+W/D| by GLS",30283594,3,163.00,5,95,5
+10066362,"Clean+Furnished 1BR | Work Desk | Kendall Square",30283594,3,156.00,5,100,5
+10068003,"Bright 2BR | Work Desk + WiFi | Kendall Square",30283594,4,216.00,5,96,5
+10068220,"Furnished 2BR Kendall Square Apt near MIT",30283594,4,249.00,5,100,5
+10068492,"Lux Furnished Kendall Square 2-Bedroom Apt",30283594,4,249.00,5,94,5
+10138304,"One Bedroom Close to MIT (1172)",51079261,1,100.00,4,88,4
+10152128,"Room For Two Short Walk To Harvard (RM 11)",51079261,3,191.00,5,94,9
+10152514,"One Subway Stop to Harvard Two Stops to MIT (A)",51079261,3,162.00,5,91,8
+10355885,"3BR/3BA Home@Harvard&MIT w/Parking",51536389,5,281.00,5,92,6
+10366230,"2 BR/1 BA Apt between Harvard/MIT + Parking!",51536389,4,212.00,5,91,6
+10413061,"2BR+2 BA Home between Harvard/MIT & Onsite Parking",51536389,4,235.00,5,92,6
+10545046,"2 bedroom-fast reliable wifi, 5 min walk to T stop",21745230,2,139.00,5,99,8
+10808446,"Semi-private room close to Harvard!",23983523,1,55.00,5,96,6
+11084684,"One/Two BR near MIT/Kendall/Harvard",21631889,3,198.00,5,98,11
+11127214,"Entire condo short term rental. June 24- August 7",24918048,1,100.00,5,100,9
+11172827,"Cheerful 2 BR Grd Floor Apt June-August",13710243,3,160.00,5,92,8
+11298634,"Spacious 2-Bedroom - Ideal Location in Cambridge",39633488,5,299.00,5,98,6
+11656940,"sunny 2-level apt. near Harvard",61855782,3,199.00,5,97,1
+11836087,"1A CAMBRiDGE HARVARD MiT LOCATION SPOTLESS 1BR!",81038,4,220.00,5,98,6
+11944852,"3Bdr with parking in West Cambridge",21631889,5,257.00,5,97,7
+12038379,"Charming apt easy walk to Harvard",1260886,4,201.00,5,98,7
+12220649,"Nice Space near Harvard University",65735793,5,500.00,5,96,6
+12231967,"Elegant Apartment Harvard Square",65734941,5,390.00,5,98,6
+12248543,"3Bdr Walkout Apartment near park",21631889,5,290.00,5,98,7
+12306678,"Private Room and Bath, Gym Privileges & Parking!",66359853,1,82.00,5,97,4
+12318450,"Private studio w/ parking by MIT/Harvard/BU/Fenway",66604416,2,104.00,5,98,4
+12432434,"2 Bed w/ Parking Two Blocks from Harvard",43450256,3,175.00,5,96,6
+12489082,"Modern studio in Cambridge townhome",10069224,1,60.00,5,97,4
+12507244,"1 Bedroom near Harvard Square Cambridge",67730125,2,130.00,3,80,6
+12522168,"Comfortable & Private 1 bed apt",67827905,2,115.00,3,80,6
+12532155,"Nice space near Harvard University 2",65735793,5,500.00,5,95,6
+12655984,"Spacious Harvard Sq Room",22591136,1,99.00,5,97,1
+12678652,"Spacious 3BR Apt near Harvard Sq & MIT",68892304,3,158.00,5,96,10
+12683483,"Newly renovated 2BR apartment near MIT",21631889,4,248.00,5,95,11
+12810652,"Very close to Boston MIT Harvard MGH and subway",42927628,1,72.00,5,92,5
+12871772,"Convenient Harvard Room",22591136,1,83.00,5,95,1
+12903091,"Comfortable Sunny Room in Cambridge",70690651,1,75.00,5,93,10
+12985396,"Central Square Cambridge luxury 2 bed, 2 Bath",52660264,3,200.00,5,99,4
+13002717,"Typically Cambridge: Harvard/Porter",24871385,1,75.00,5,99,1
+13073921,"Beautiful private RM near Harvard",68892304,1,60.00,5,97,10
+13147180,"Urban Oasis Near MIT & Harvard",3096821,4,210.00,5,98,11
+13156403,"Cozy private RM near Harvard SQ",68892304,1,68.00,5,99,10
+13169945,"Sunny private RM near Harvard SQ",68892304,1,60.00,5,98,10
+13175406,"Room w/private bath/fridge/microwave/fast wifi -T",21745230,1,59.00,5,99,8
+13203203,"One Bedroom Close to MIT (1512)",51079261,1,100.00,5,97,11
+13281865,"3rd fl studio, excellent light, 1 stop to Harvard",9939488,1,60.00,5,100,7
+13294153,"Close to the subway, MGH, Harvard, MIT & Boston",42927628,1,74.00,5,94,5
+13458825,"1 bedroom apartment in Harvard Square Cambridge",67730125,2,130.00,1,60,6
+13522694,"??? of Cambridge | Walk Score 94 | Parking | W/D",36621692,5,327.00,5,99,9
+13546773,"Spacious Strawberry Hill Suite (West Cambridge)",28611578,1,84.00,5,99,10
+13586974,"Beta Room @ CCVP in Harvard Square",78459716,1,88.00,5,96,9
+13600523,"Sigma Room @ CCVP in Harvard Square",78459716,1,88.00,5,94,9
+13617148,"Classy Cambridge 2BD--Harvard, MIT, Kendall,Boston",45016784,5,283.00,5,91,12
+13653574,"9th Floor Luxury Corporate Suite with BostonView",52660264,3,179.00,5,98,4
+13683876,"Modern Kendall Square 1BR | Work Desk+WiFi | GLS",30283594,2,150.00,5,100,5
+13893163,"Large 1 BD Apartment near Harvard",1411717,3,166.00,5,95,6
+13953617,"Studio-type room  w private bathroom CBM",12576232,1,80.00,5,93,11
+14088030,"Harvard/MIT Luxury 2 Bed/2.5 Bath",10069224,2,115.00,5,98,4
+14117899,"Large One Bedroom walk to Harvard Square",67730125,2,120.00,0,0,6
+14142611,"Best Location! MIT, MGH, Harvard, Boston and the T",42927628,1,76.00,5,94,5
+14212774,"One Bedroom Close to MIT (1542)",51079261,1,100.00,5,97,4
+14213983,"Great Cambridge studio, great Harvard sq location",1473780,2,135.00,5,95,9
+14229298,"Modern 1BR | Kitchen | W/D | on Charles River bank",30283594,3,159.00,3,80,5
+14251369,"NEW SPACIOUS 2 BDR APT.  HARVARD - CENTRAL SQ/MIT",50669996,4,225.00,5,94,4
+14313342,"8th Floor Luxury One Bedroom with Fantastic View",52660264,3,179.00,5,97,4
+14359574,"Cozy Room near Harvard Square",70690651,1,70.00,5,96,10
+14436594,"Charming 2 Bed/1.5 Bath located on Harvard Street!",79627,2,108.00,0,0,6
+14449525,"Convenience, Cozy, and Free Parking",3603745,2,111.00,5,96,13
+14503389,"Alpha Room @ CCVP in Harvard Square",78459716,1,79.00,5,94,9
+14521992,"Harvard Square 1br",89743014,5,395.00,5,100,9
+14536322,"Omega Room @ CCVP in Harvard Square",78459716,1,79.00,5,93,9
+14551177,"2 Bedroom w Kitchen, cozy garrett in Harvard Sq.",7704595,2,150.00,0,0,13
+14592916,"Cambridge Vacation Rental Rooms M807 #1",32532791,3,160.00,5,97,11
+14727253,"Charming House in Cambridge C36W",12576232,1,50.00,5,94,11
+14754163,"One Bedroom Close to MIT (1522)",51079261,1,100.00,5,96,4
+14758794,"One Bedroom Close to MIT (1552)",51079261,1,100.00,5,98,4
+14759578,"East Cambridge, MIT, Kendall & free parking!",92029664,3,158.00,5,96,5
+14841218,"Quiet 2 Bedroom Apartment near MIT, BU & HBS",5074009,3,197.00,5,100,4
+14847982,"Beautiful 2 bed in Harvard Square",92925188,2,101.00,5,94,6
+14858857,"Sunny & spacious room in a townhouse by Kendal!",23983523,1,45.00,5,91,5
+14886335,"Spacious room in a townhouse by Kendall Square!",23983523,1,45.00,5,91,5
+14914342,"Three-bedroom Harvard Square condo.",8944743,5,255.00,5,100,6
+14974786,"Phil's Apartment at Harvard - Harvard Room",6627353,2,144.00,5,99,6
+15022874,"Phil's Apartment at Harvard - MIT Room",6627353,2,147.00,5,100,6
+15023471,"Phil's Apartment at Harvard - Two Rooms",6627353,5,304.00,5,100,6
+15056521,"Cambridge Vacation Rental Rooms M807 #2",32532791,3,155.00,5,99,11
+15125756,"Prime location Harvard/Porter Sq",3381894,1,75.00,5,98,7
+15235520,"One Bedroom Close to MIT (1532)",51079261,1,100.00,5,95,4
+15285943,"Fully Furnished 1BR Apt | Gym | Panoramic views",95459395,5,639.00,5,100,5
+15295354,"Luxury 1BR Apt | Washer/D | Gym | Cambridge MA",95459395,5,639.00,5,100,5
+15295836,"Lavish 1BR Apt | Gym | Panoramic Views | Boston",95459395,5,639.00,5,100,5
+15295997,"Spacious 2BR Apt | Washer/D | Panoramic Views",95459395,5,839.00,5,93,5
+15324620,"Near Harvard, Central  Square,  and Fenway Park",21647935,5,350.00,5,98,9
+15369556,"Private & Clean 2BR Apt | Gym | East Cambridge",95459395,5,839.00,5,100,2
+15451457,"1 Bedroom in the Heart of Kendall Square",43450256,1,60.00,4,89,5
+15512578,"private studio near Harvard/MIT",11659356,2,150.00,5,99,11
+15523233,"On River/Harvard Sq. two blocks",87618246,2,128.00,5,91,13
+15645066,"1 Bedroom in Kendall Square",43450256,1,60.00,5,92,5
+15788977,"AVAILABLE NOW SPACIOUS 1 BED + DEN in HARVARD SQ",102134649,3,179.00,5,97,7
+15789298,"Private Rm near Tufts/Harvard/MIT/MGH**",70969915,1,95.00,5,98,8
+15826847,"One Bedroom Short Walk to Harvard (Rm 3)",51079261,3,191.00,5,100,9
+15827795,"One Bedroom Short Walk to Harvard (Rm 14)",51079261,3,159.00,5,98,9
+15881987,"One Bedroom Short Walk to Harvard (Rm 2)",51079261,3,191.00,5,95,6
+15929332,"Harvard/MIT (Unit 1)- Brooklyn Ambiance w/ Parking",35489146,4,250.00,5,99,6
+15930566,"Spacious 2BR 2 bath w/deck, walk to Harvard & MIT",6626676,5,290.00,5,99,6
+16012632,"One Bedroom Short Walk to Harvard (Rm 1)",51079261,3,200.00,5,100,6
+16013016,"One Bedroom Short Walk to Harvard (Rm 12)",51079261,3,191.00,0,0,9
+16013157,"One Bedroom Short Walk to Harvard (Rm 13)",51079261,3,166.00,5,95,9
+16013859,"One Subway Stop to Harvard Two Stops to MIT (B)",51079261,3,162.00,4,86,8
+16056199,"Spacious one queen bedroom with parking(with fee)",104567106,1,85.00,5,91,12
+16136728,"Bright & airy studio in historic home",1364642,3,195.00,5,98,5
+16146887,"A floor all to yourself in our historic home",1364642,2,119.00,5,97,5
+16238299,"Big and Luminous Apartment at Cambridge Port",13866658,2,150.00,5,97,4
+16353525,"Comfortable Cloud, Close to Everything... (3S)",229695597,1,80.00,5,96,12
+16361055,"Cambridge in Harvard Square - a spacious home.",107139150,5,350.00,5,99,13
+16436214,"One Bedroom Short Walk to Harvard (Rm 5)",51079261,3,175.00,5,100,9
+16572261,"Cozy, Renovated Abode Between Harvard & MIT",45224133,1,99.00,5,97,6
+16842241,"2# Minutes to Boston -Basic Bedroom",20551003,1,68.00,5,91,5
+16843178,"9# Minutes to Boston -Basic Bedroom",20551003,1,68.00,4,89,5
+17011428,"Cambridge Basement Apartment over 90 day rental",404360,2,125.00,4,90,13
+17107558,"Private room for 2 close to Harvard/MIT",6341616,3,175.00,5,100,6
+17209703,"West Cambridge 1 BR entire apartment near Harvard",115833412,1,99.00,5,98,10
+17285749,"Private, quiet and clean studio in ideal location",116598782,1,95.00,5,97,1
+17348129,"2 Bed 2 Bath in Kendall Square",43450256,5,500.00,5,100,5
+17693766,"2020 Grad Student or Professor!",40965,1,85.00,5,96,8
+17811602,"Spacious 1 Bedroom w/ Free Parking Near MIT",43450256,3,184.00,5,97,5
+17942925,"Sunny, quiet Cambridge apartment near Davis Sq",13307006,1,67.00,5,99,8
+18330818,"Penthouse Room With Private Entrance",92004180,2,120.00,5,98,8
+18406874,"Brand New 2BR Den | Full Kitchen |  East Cambridge",95459395,5,849.00,0,0,5
+18613736,"Long-term Renters Please! Harvard Walkable 1bdr",9161433,3,179.00,5,100,7
+18614693,"Luxurious - Walkable to Harvard Full 1bdrm + sofa",9161433,2,113.00,3,80,7
+18676360,"Walk to Harvard/MIT (unit 2) w/ parking",35489146,5,300.00,5,99,6
+18682931,"^10min walk-Harvard, Suite-like/private entry/3fl",28283338,1,74.00,5,100,1
+19065197,"Perfect Location, Lovely room in Cambridge!",6839881,1,57.00,5,100,11
+19183167,"Contemporary 2BR in Central Sq! Harvard/MIT",112868041,4,239.00,5,97,4
+19248273,"Ocean Oasis in the Heart of Cambridge",134772042,2,101.00,5,100,4
+19251505,"Harvard/MIT 2 Bed 2 Bath luxury apartment",75606953,3,165.00,5,95,11
+19344649,"WALK to HARVARD&MIT with MEMORY BED 1",15154687,1,65.00,5,92,4
+19345857,"WALK to HARVARD&MIT with MEMORY BED 2",15154687,1,65.00,5,92,4
+19346242,"WALK to HARVARD&MIT with MEMORY BED 4",15154687,1,41.00,4,88,6
+19346436,"WALK to HARVARD&MIT with MEMORY BED 6",15154687,1,43.00,4,90,4
+19376539,"Private room in Harvard square 3, good to sleep",82946167,1,39.00,5,96,13
+19426275,"Amazing Apartment! Close to EVERYTHING!",40959087,3,183.00,5,96,5
+19847550,"*New Construction Luxury Kendall Square Townhouse*",111823791,5,800.00,0,0,11
+19911587,"WALK to HARVARD&MIT with MEMORY BED 5",15154687,1,41.00,4,89,9
+19942644,"3A *REDUCED*! HARVARD MiT LOCATION! SPOTLESS 1BR",81038,4,209.00,5,97,6
+20024644,"Bright & updated 2BR in Central Sq! Harvard/MIT",112868041,5,275.00,5,97,4
+20074456,"Charles River/Harvard Square - free parking",87618246,2,109.00,5,92,13
+20074638,"Sunny Apt near MIT/Harvard Central Sq-FreeParking",55554594,3,153.00,5,96,9
+20153407,"Private room in spacious home near Harvard Square",16849714,1,72.00,5,95,6
+20355928,"4B HUGE AMAZING SPOTLESS CAMBRIDGE HARVARD/MiT",81038,4,209.00,5,98,6
+20403672,"2A Cambridge Harvard MIT. Amazing flat",81038,3,190.00,5,97,6
+20419752,"Large & Private 3BR Apt  w/ Cooks Kitchen & A/C",145655051,3,196.00,5,97,11
+20462256,"Quirky, Cozy 1 Bedroom in Kendall Square",43450256,1,50.00,4,88,5
+20504268,"Beautiful 2 Bed 2 Private Bath near MIT/Harvard",40515595,5,275.00,0,0,12
+20572514,"4A CAMBRIDGE HARVARD/MIT GORGEOUS 1BD *REDUCED*!",81038,4,209.00,5,97,6
+20649514,"Harvard MIT SUBWAY SMALL ROOM M8",93503221,1,45.00,5,91,6
+20671080,"M3/HARVARD MIT Priv Bath SUBWAY FREE PARKING ???????????????",93503221,1,45.00,4,86,6
+20769949,"M4/NEAR HARVARD MIT SUBWAY FREE PARKING ???????????????",93503221,1,45.00,4,86,6
+20797694,"The Modica Estate #1",39361614,1,43.00,5,97,11
+20799027,"Modica Estate, Room #2",39361614,1,50.00,5,96,11
+20817892,"A Cozy Large Bedroom - Stay at Home! (3B)",229695597,2,150.00,5,97,12
+20848838,"Fabulous Flat Near Harvard Square",8530114,3,199.00,5,100,6
+20928592,"Large 2 bed w/ Parking in Quiet Cambridge Home",43450256,3,200.00,5,95,5
+20970989,"M11/Harvard MIT SUBWAY PRIVATE BEDROOM LTR",93503221,1,39.00,4,88,6
+21204503,"4BR 3BA Cambridge Oasis - Harvard/MIT/Boston",26693600,5,364.00,5,99,9
+21248869,"*10min walk-Harvard, Suite-like/private entry/3fl",28283338,1,74.00,5,100,1
+21275668,"Kendall Square, MIT, Biotech Center",41854028,2,143.00,5,99,5
+21385410,"Comfy Private Bedroom in Cambridge",29313226,1,60.00,5,94,12
+21389613,"1FW??????????????????",44086891,5,540.00,5,92,12
+21406532,"Harvard Square Delight with Office Space",18694541,3,180.00,5,95,6
+21460557,"Modern Studio - Davis/Porter/Harvard",119102701,3,170.00,5,99,8
+21546255,"Harvard/MIT/Lesley/Tufts Private Room & Bath",4274693,1,95.00,5,99,1
+21682941,"Casa Paradiso - Top Floor 1bed/1bath in Cambridge",101409695,4,230.00,5,100,12
+21738836,"R1. Quiet private room near Kendall/MIT",119672800,1,35.00,5,96,12
+21765306,"Whole House 4 Private BRs - Cultural District on T",158575537,5,314.00,5,100,4
+21885937,"Forever Green",159674828,1,56.00,1,60,12
+22004690,"Quiet room -5 min to T-access to Harvard/Boston",21745230,1,55.00,5,100,8
+22008825,"Harvard Square Private Floor",10825995,2,123.00,5,100,9
+22081464,"Cambridge Executive Suites",161304675,4,249.00,5,95,8
+22099694,"Modern House near Harvard. Luxury Master - Dogs Ok",159728840,5,359.00,5,98,9
+22142932,"R2, Private sunny room near Kendall/MIT",119672800,1,33.00,5,97,12
+22216607,"Harvard Square home",8706284,2,149.00,5,99,6
+22265937,"*New  2 beds* free parking Harvard MIT Cambridge 4",162705378,4,221.00,5,96,4
+22265938,"*New queen Bed *free parking  MITCambridge studio",162705378,2,109.00,5,95,4
+22265939,"*New queen bdfree parking Harvard  MIT Cambridge 3",162705378,3,189.00,5,95,4
+22338629,"Lux 2 Bedroom Cambridge Apt by MIT",9419684,4,205.00,3,80,5
+22339138,"Lux 2 Bedroom Cambridge Apt by MIT",9419684,4,205.00,5,100,5
+22352805,"Brand New 1BR Apt | Fitness Center | MIT Museum",95459395,5,439.00,4,90,5
+22353454,"Spacious 1BR Apt | Full Kitchen | Panoramic Views",95459395,5,439.00,5,100,5
+22377492,"Beautiful, sunny charming room overlooking Charles",2722041,4,250.00,5,100,13
+22445294,"Posh Cambridge Medical 1BR Apt - Magnificent Views",163251048,5,509.00,2,70,5
+22445323,"Cambridge Medical 1BR Apt Near Harvard University",163251048,5,599.00,0,0,5
+22445511,"Private room Near Harvard Square",38551452,1,70.00,0,0,13
+22449632,"Upscale Cambridge Medical 1BR Apt - Prime Location",163251048,5,599.00,0,0,5
+22449711,"Lux Cambridge Medical 1BR Apt Close To T-Stop!",163251048,5,599.00,0,0,5
+22461420,"Cambridge Medical 2BR Apt Next To Fenway Park!",163251048,5,799.00,0,0,5
+22461484,"Beautiful Medical 2 Bedroom Apt Steps to MIT!",163251048,5,799.00,0,0,5
+22567155,"Cambridge Furnished Medical 2BR Apt Next To MIT",163251048,5,799.00,0,0,5
+22567215,"Upscale Cambridge Medical 2BR Apt",163251048,5,799.00,0,0,5
+22598276,"basic room in Cambridgeport",166221142,1,36.00,5,99,4
+22625445,"Serene, Roomy 2BR near Harvard & Davis Sq",71341215,2,144.00,5,99,8
+22629543,"One bedroom at Harvard Square to share",166600256,1,50.00,0,0,6
+22842459,"Luxurious and Spacious 5 bedroom in Mid-Cambridge",4167496,5,950.00,0,0,6
+22888033,"R6, Private sunny quiet room : Kendall Sq One/MIT",119672800,1,33.00,5,94,12
+22958055,"Fully renovated spacious 2BR mins from Boston & T",80482365,3,170.00,5,99,8
+23035929,"Cambridge Furnished Medical 2BR Penthouse Apt- MIT",163251048,5,809.00,0,0,5
+23037809,"Harvard MIT Subway Small private bedroom LTR",93503221,1,35.00,4,85,6
+23102114,"Comfortable Room - 2 - Near BU/MIT/NEU/MGH/Harvard",171618898,1,49.00,5,99,4
+23114408,"Compact Lux Bedroom C convenient to Harvard",21631889,1,44.00,5,95,7
+23114790,"Luxurious 3Bdr Apartment near Fresh Pond",21631889,5,252.00,5,98,7
+23257882,"Cozy 2 Bedroom  on Charles River - Harvard Square",87618246,2,120.00,4,86,13
+23308507,"R9 - large private bedroom w/ park overview",119672800,1,37.00,5,96,12
+23309047,"Heart Cambridge 2 BDS Boston/ MIT/Harvard",162705378,2,112.00,5,100,4
+23523253,"Comfortable Room - 3 -near Harvard/MIT/BU/MGH/NEU",171618898,1,69.00,5,99,4
+23563670,"Room Near Harvard/MIT/NEU/BU/MGH Private Bath - 4",171618898,2,105.00,5,98,4
+23594538,"Picture-perfect Cambridge guest apartment",176415954,3,165.00,5,99,8
+23660990,"Stunning 2bd Central Square /MIT/ Harvard/Red Line",112868041,5,299.00,5,100,4
+23769190,"Modern 2bd Central Square/ MIT/Harvard/ Red Line T",112868041,5,299.00,5,97,4
+23902787,"Fresh Pond Paradise",39476963,2,103.00,5,100,13
+24298372,"Comfortable Room- 1 - Near BU/NEU/MIT/Harvard/MGH",171618898,1,93.00,5,97,4
+24304200,"Beautiful N. Cambridge Private Room",88140341,1,80.00,5,99,8
+24442402,"BnB! Sunny private bedroom/bath near Harvard",181267574,2,120.00,5,100,13
+24886707,"LIVING in THE CITY,CLOSE TO HARVARD&MIT",15154687,1,41.00,4,87,12
+24887170,"Private Rm near Tufts/Harvard/MIT/MGH",70969915,1,85.00,5,100,8
+24888098,"LIVING in THE CITY, CLOSE TO HARVARD&MIT",15154687,1,41.00,4,88,12
+24888768,"Comfortable convenient  Cambridge Apt.",98988662,4,230.00,5,94,4
+24888817,"LIVING in THE CITY,CLOSE TO HARVARD&MIT",15154687,1,41.00,4,88,12
+24967119,"Cultural District, MIT, Harvard, 1Br, Free parking",158575537,3,180.00,5,100,11
+25103936,"Upscale Cambridge 2 Bedroom Apt Steps from MIT!",30283594,5,399.00,0,0,5
+25212486,"Huron House Room - 3rd floor",4642626,1,50.00,5,100,13
+25483626,"Modica Estate #3",39361614,1,48.00,5,98,11
+25687175,"Sunny 2Bed Apt?€?10 Meters from Harvard Law School!",45224133,2,144.00,5,100,1
+25691658,"2Bed?€?10 Meters from Harvard Law School! Big & New!",45224133,5,264.00,0,0,1
+25728312,"Private Bedroom at Harvard",9928124,1,44.00,4,82,1
+25778262,"Serene suites close to Harvard- always disinfected",28283338,2,146.00,5,99,1
+26003078,"Beautiful Studio and Great Location",133407298,1,67.00,5,97,2
+26136927,"Cambridge beautiful 2BR, near Porter/Harvard Sq.",9365589,2,105.00,5,98,8
+26428050,"LIVING in THE CITY, CLOSE TO HARVARD&MIT",15154687,1,41.00,4,89,12
+26429034,"LIVING in THE CITY,CLOSE TO HARVARD&MIT",15154687,1,41.00,4,85,12
+26473352,"Room in Huron Village Upper Apartment",4642626,1,50.00,5,100,13
+26502467,"CITY LIFE, CLOSE to HARVARD&MIT",15154687,1,42.00,4,85,12
+26502701,"CLOSE to HARVARD&MIT",15154687,1,41.00,5,92,12
+26688986,"Charming  quiet  apt: renovated 2 BR 4 blocks to T",200654508,2,112.00,5,98,8
+26703374,"Harvard Square less than 2 miles",71156317,1,70.00,5,100,10
+26740462,"Large Room in 2bd House with AC, 4K 60?€? TV",10114243,1,80.00,1,20,5
+26857005,"2 bed 1 bath w/ Free Parking in East Cambridge",43450256,4,220.00,5,91,5
+26978504,"Your own private bed, bath, and office/bonus room!",15692612,1,99.00,0,0,8
+27017697,"CLOSE to HARVARD&MIT",15154687,1,82.00,4,87,12
+27083472,"Perfect Location, Top Floor Apt",6839881,1,76.00,5,100,11
+27141126,"WALKING DISTANCE to HARVARD&MIT with MEMORY BED 3",187572416,1,43.00,5,93,4
+27197352,"Huge Private Room near Harvard with King Bed",56845328,1,25.00,0,0,10
+27303018,"Lovely room, Great location",6839881,1,64.00,3,80,8
+27407158,"WALKING DISTANCE to HARVARD&MIT with MEMORY BED 1",187572416,1,46.00,4,87,9
+27757091,"ELA: Enjoy Harvard campus & Charles River &  MIT",209566405,1,89.00,4,89,13
+27757364,"Room steps 2 Harvard Yard ????????????",209566405,1,79.00,4,83,13
+27757751,"ER??????Cozy Private Room in Harvard Square, nr MIT",209566405,1,89.00,5,91,13
+27897602,"One Bedroom Short Walk to Harvard (Rm 4)",51079261,3,191.00,5,100,9
+27898877,"Room For Two Short Walk To Harvard (RM 7)",51079261,3,175.00,5,97,9
+28129618,"Large room, Excellent location in Cambridge",6839881,1,76.00,2,70,7
+28178013,"Quiet and Close to Everything! 2 Bedroom apartment",36085037,3,175.00,0,0,8
+28186233,"WALKING DISTANCE to HARVARD&MIT with MEMORY BED 2",187572416,1,70.00,4,90,9
+28195363,"Loft room, great location in Cambridge",6839881,1,77.00,0,0,7
+28282525,"Cambridge Loft near  Harvard Square - min 2 months",55152664,3,170.00,0,0,13
+28463949,"Apartment  near Harvard - min 3 months",55152664,3,170.00,0,0,13
+28466694,"One Sunny & Quiet room in Harvard square",209566405,1,35.00,5,100,13
+28489121,"Harvard Sq Riverside w/parking Walk HBS/HLS/MIT/BU",184906834,2,149.00,5,95,9
+28667379,"Room for monthly rent  in owner's apartment.",7421025,1,43.00,0,0,6
+28761770,"Central Square Bedroom by metro T stop",216953227,2,124.00,5,100,9
+28801153,"Room For Two Short Walk To Harvard (Rm 9)",51079261,3,191.00,5,96,6
+28832386,"Apartment near Harvard - minimum 2 months",55152664,3,190.00,0,0,13
+28833374,"Lovely Family Home - min 3 months",55152664,5,300.00,0,0,13
+28952923,"The Modica Estates #4",218237995,1,45.00,5,96,11
+28988139,"I1 Private Room by Kendall",218493228,1,55.00,5,93,12
+28989060,"I3 Private Room by Kendall/MIT/Central Statio",218493228,1,57.00,4,90,12
+29034417,"The Modica Estates #5",218237995,1,47.00,5,96,11
+29151496,"Think Spring! 2BR with 5 star reviews. HARVARD/MIT",219665574,2,146.00,5,98,5
+29308635,"Beautiful room in Cambridge , Ma",887148,5,275.00,5,97,13
+29343335,"Budget Room in Cambridge - Paris Concept",201911026,1,33.00,5,91,11
+29588602,"One Subway Stop to Harvard Two Stops to MIT (C)",51079261,3,162.00,4,89,8
+29789486,"Budget Room in Cambridge - Istanbul Concept",1474891,1,29.00,5,94,12
+29806399,"Budget Room in Cambridge - Woof Concept",201911026,1,29.00,5,93,12
+29816287,"Budget Room in Cambridge - Twin Concept",201911026,1,29.00,5,94,11
+29854517,"Cozy Place",197864304,2,115.00,0,0,11
+29992024,"4BR Beautiful New Cambridge Home",7372692,5,475.00,5,100,3
+30035967,"Newly renovated, spacious gem in heart of City",19167089,2,148.00,5,98,5
+30080995,"Budget Room in Cambridge - Full Concept",201911026,1,30.00,5,93,12
+30130868,"Beautiful Single Family Home in Cambridge, MA",226407671,5,300.00,5,98,11
+30169164,"Light filled lofty layout and all yours!",11982406,3,194.00,5,99,4
+30323319,"????????????????????????????????????",227715194,1,52.00,0,0,9
+30386484,"Calming Kendall Square Studio w/ Gym, near MIT by Blueground",107434423,2,149.00,5,100,2
+30389876,"Bright + Mod Kendall Sq 1BR w/ Gym, walk to MIT by Blueground",107434423,3,178.00,5,100,2
+30389899,"Gentle Kendall Sq Studio, Gym, Doorman, near MIT by Blueground",107434423,2,138.00,0,0,2
+30389924,"Hip 1BR, Kendall Square, Gym, Doorman, walk to MIT by Blueground",107434423,3,168.00,0,0,2
+30390003,"Sleek Kendall Sq 2BR, Gym, Doorman, walk to MIT by Blueground",107434423,4,220.00,5,100,2
+30390533,"Serene Studio, Kendall Square, Gym, walk to MIT by Blueground",107434423,2,140.00,5,100,2
+30397057,"Industrial 1BR near MIT w/ Gym, Doorman, Roof Deck by Blueground",107434423,3,168.00,0,0,2
+30397111,"Comfy Kendall Square Studio w/ Gym, walk to MIT by Blueground",107434423,2,145.00,0,0,2
+30441472,"Cambridge   Harvard  -  MIT Great Room 2",19788941,1,30.00,5,100,11
+30489683,"Snug Kendall Square Studio w/ Gym, near MIT & MGH by Blueground",107434423,2,143.00,0,0,2
+30567500,"Cambridge renovated 1BR, near Porter/Harvard Sq.",9365589,1,70.00,5,96,8
+30686042,"Cambridge  Harvard - MIT  Great Room",19788941,1,25.00,5,91,11
+30788187,"NEW Sunny, Large 1Bed facing Harvard Law School!!",45224133,1,89.00,5,99,1
+31026140,"Great room AWESOME LOCATION * Close to SUB",231351946,1,75.00,5,100,1
+31142001,"Charming Private Room Near Harvard",56845328,1,25.00,3,80,13
+31153915,"MIT",159674828,1,60.00,1,60,2
+31265845,"Room next to MIT in a quiet zone",5938188,1,50.00,0,0,12
+31740688,"HARVARD/MIT - Artist's Pad in Central Sq (Room B)",52655526,1,60.00,5,93,4
+31990257,"Your own bed+bath+office! Steps to grocery/CVS/T",15692612,1,100.00,5,100,8
+32055447,"Newly Renovated & Oh-So-Convenient!",93861,2,133.00,5,100,5
+32089527,"BEDROOM-MIT3-HARV-MGH-CENTRAL-INMAN-KENDALL-UNION",12576232,1,50.00,5,93,11
+32210534,"R5 Cozy quiet private room near MIT",119672800,1,33.00,5,97,12
+32210545,"R3 Quiet Cozy Room",119672800,1,34.00,5,98,12
+32286134,"Tangerine Dream - Pvt Entry, MIT-Harvard-Downtown",1182119,2,105.00,5,100,12
+32324379,"Roomy 2BR in Kendall Square w/ Gym, Doorman near MIT & MGH by Blueground",107434423,3,193.00,0,0,5
+32407309,"Harvard Square: Charming, newly updated",6499961,3,170.00,5,100,6
+32441363,"N. Cambridge Private Bedroom for Two",88140341,1,80.00,5,100,8
+32520971,"Beautiful  private room at Harvard Sq 1",244341077,1,60.00,5,91,13
+32521733,"Beautiful private room at Harvard Sq 2",244341077,1,60.00,4,86,13
+32521848,"Beautiful private room at Harvard Sq 3",244341077,1,60.00,4,90,13
+32529852,"Lovely, sunny, spacious 2 bdrm, summer 2020",290252,2,150.00,0,0,7
+32550845,"Cozy private room next to Harvard Square 1",244612239,1,60.00,4,86,13
+32551001,"Cozy private room next to Harvard Square 2",244612239,1,60.00,4,88,13
+32551056,"Cozy private room next to Harvard Square 3",244612239,1,60.00,5,93,13
+32554763,"Cozy Private room next to Harvard sq 4",244648734,1,60.00,5,92,13
+32693725,"Nice Studio *parking* 3-minute walk to subway",227996806,3,180.00,4,82,7
+32791973,"4 beds, walk to subway: Harvard,MIT,Kendall,Boston",246448509,4,230.00,0,0,12
+32900803,"High-class private room next to MIT/Harvard 1",247533528,1,55.00,4,90,11
+32901476,"High-class private room next to MIT/Harvard 2",247533528,1,55.00,5,92,11
+32986957,"Hey Private Room close to MIT and Harvard Uni",248263858,1,51.00,5,92,6
+33028188,"Crisp Kendall Square Studio w/ Gym, W/D by MIT, MGH & River by Blueground",107434423,2,149.00,5,100,2
+33067776,"joyful private room next to central sq/MIT 1",248859826,1,52.00,5,92,4
+33072598,"joyful private room next to central sq/MIT 2",248859826,1,60.00,5,91,4
+33072838,"joyful private room next to central sq/MIT 3",248859826,1,57.00,5,91,4
+33128612,"Studio 3-minute walk to subway, 1 free parking",227996806,1,70.00,5,93,8
+33183552,"Rad Kendall Square 1BR w/ Gym, W/D by MIT, MGH & River by Blueground",107434423,3,175.00,0,0,2
+33242374,"Keyless private room near MIT,Central Sq 1",250298429,1,56.00,4,89,4
+33245746,"keyless private room near MIT,Central Sq 2",250298429,1,54.00,5,97,4
+33245987,"keyless private room near MIT,Central Sq 3",250298429,1,55.00,5,94,4
+33325791,"3 Bed 2 Bath w/ Free Parking near Kendall Square",43450256,1,85.00,5,96,5
+33337073,"3 Bed 2 Bath Tourist House near Kendall Square",43450256,1,98.00,5,93,5
+33340302,"New 3 Bed 2 Bath Tourist House near Kendall Square",43450256,1,80.00,5,91,5
+33341290,"Smartly-Equipped Porter Square 1BR in Harvard Square by Blueground",107434423,2,148.00,0,0,1
+33341404,"Well-Located Porter Square 1BR in Harvard Square by Blueground",107434423,2,138.00,0,0,1
+33374476,"*2 bed, walk to subway:Harvard,MIT,Kendall,Boston*",246448509,4,210.00,0,0,12
+33400638,"Cosy/ Artsy Apartment mins from MIT/ Harvard",3667802,4,210.00,5,100,4
+33463508,"Nice Studio *parking* 3-minute walk to subway",227996806,3,165.00,0,0,8
+33483321,"Studio 3-minute walk to subway",51692157,1,80.00,0,0,8
+33484884,"Sunny spacious 2 BR near Porter/ Davis/ Harvard sq",4234305,2,118.00,0,0,8
+33551653,"Central Kendall Square Studio w/ Gym, W/D near MIT & River by Blueground",107434423,2,141.00,0,0,2
+33596731,"Comfy Kendall Square 1BR w/ Gym, W/D near MIT & River by Blueground",107434423,3,173.00,0,0,2
+33692520,"Sunny Bedroom at Harvard",9928124,1,42.00,3,80,1
+33913038,"Studio 3--minute walk to subway, 1 free parking",227996806,1,70.00,0,0,8
+33915066,"34 - Walk To Harvard & Porter. Cute private room.",17028791,1,50.00,3,78,13
+33998489,"Cozy apartment next to Central Sq/Harvard Sq/MIT",256714221,3,165.00,5,98,6
+34126785,"Private Rm, 5-Min Walk to Harvard, 1 Month Minimum",44086891,1,50.00,5,100,1
+34127139,"Private Rm, 5-Min Walk to Harvard, 1 Month Minimum",44086891,1,40.00,4,85,6
+34127149,"Private Rm, 5-Min Walk to Harvard, 1 Month Minimum",44086891,1,40.00,5,93,6
+34507120,"Cute, Comfortable, and Centrally Located",1858876,2,139.00,5,100,5
+34664077,"Luxury studio w/ parking by MIT/Harvard/BU/Fenway",66604416,1,86.00,5,97,4
+34785693,"2 BR  APT w/ parking near MIT/Harvard/BU/Fenway",66604416,3,175.00,5,98,4
+34944649,"Luxury 1BR APT w/ parking by MIT/Harvard/BU/Fenway",66604416,2,131.00,5,99,4
+35060349,"Parking, Pets, and a Yard, Oh My!",11982406,4,207.00,5,100,4
+35086687,"A Modern Apartment in Cambridge",73719352,1,75.00,4,90,5
+35187780,"Franklin Blue House",66084479,4,250.00,0,0,9
+35233542,"The big cozy room",70690651,1,80.00,5,93,10
+35333477,"Room For Two Short Walk To Harvard (RM 8)",51079261,3,175.00,5,94,9
+35635231,"Nice Apartment,  Porter Square Harvard",8029934,2,139.00,5,100,7
+36197065,"Historic Richardson's Row In Harvard Square",6499961,5,900.00,5,100,6
+36351801,"Your perfect Stay by HARVARD & MIT",102134649,5,299.00,5,100,6
+36393934,"????????????????????????3???1??????",251460237,3,198.00,0,0,10
+36622151,"Renovated Furnished Apartment in Cambridge Home",266312920,4,239.00,0,0,8
+36699059,"Enchanting1bed-9min drive toAirport,walk to train",24061028,1,83.00,4,89,12
+36769756,"4BR 2BA Bright Spacious Home in Cambridge",250597522,5,399.00,5,97,8
+36795444,"Modern Cambridge 2BR: Harvard,MIT,Kendall,Boston",45016784,2,136.00,0,0,5
+36867730,"Great location: Harvard Square Delight!",92925188,5,320.00,5,100,6
+37142306,"Spacious Harvard Square 2BR w/ W/D near Redline by Blueground",107434423,3,173.00,0,0,6
+37205053,"Garden-view Apartment, Minutes to Harvard Sq.",17028791,1,70.00,3,80,13
+37460222,"Clean, Bright Space near Harvard/MIT",41097805,1,68.00,5,93,9
+37557973,"Cambridge room next to Inman, Harvard, MIT, MGH",5938188,1,49.00,0,0,12
+37680404,"BR w/ Double Beds in Beautiful Single Family Home",226407671,2,135.00,0,0,11
+37684393,"Alluring Private Room near Harvard",56845328,1,34.00,0,0,10
+37696869,"Rad Harvard Sq 1BR w/ Balcony, near Shops & Campus, by Blueground",107434423,3,196.00,5,100,6
+37726328,"Excellent Location Economy 1 Bed in Kendall Square",43450256,3,200.00,4,87,5
+37931659,"Private, clean, non-shared 1BR near Harvard & MIT",37435930,2,114.00,5,99,9
+37939414,"Cambridge total",135126696,2,120.00,5,98,5
+38057036,"High style @Harvard - 3-4 bedrooms; parking avail",6499961,4,210.00,0,0,6
+38360503,"Queen size private bedroom - Harvard square",252615703,2,130.00,2,70,6
+38435661,"Excellent location - harvard square clean sofa bed",252615703,1,65.00,3,78,6
+38492542,"Private bedroom (queen size) - Harvard University",252615703,2,140.00,2,70,6
+38779928,"Lovely room, Great Location in Cambridge",6839881,1,77.00,3,80,7
+38817473,"Cambridge ??????????€???????????????????",23086232,1,60.00,0,0,3
+38822539,"Harvard Law - 2 Bed 1 Bath, Private Top Floor",140051530,4,225.00,5,97,1
+38915459,"Mod Kendall Square 1BR w/ W/D, near Mass General Hospital, by Blueground",107434423,3,164.00,0,0,5
+38960050,"Harvard Law - Cozy Double",140051530,1,90.00,5,98,1
+38960329,"Harvard Law- Simple Sunlit Queen",140051530,2,110.00,5,100,1
+39000981,"Large Private Room with Walk-inCloset",120556334,1,55.00,5,95,5
+39340799,"Tasteful 2 bedroom near Harvard Square",302175273,2,118.00,5,95,1
+39555362,"Fantastic Studio in Cambridge, Gym + Pet-Friendly",48005494,2,111.00,5,100,2
+39557106,"Charming Studio in Cambridge, Gym + Pet-Friendly",48005494,2,134.00,5,100,2
+39557295,"Beautiful 2BR in Cambridge, Gym + Pet-Friendly",48005494,3,189.00,5,100,2
+39557365,"Beautiful Studio in Cambridge, Gym + Pet-Friendly",48005494,2,111.00,5,100,2
+39608947,"Upstairs in Central Square",1152305,2,110.00,5,95,4
+39728795,"New House in Safe and Convenient North Cambridge",26102116,5,263.00,5,98,8
+39747422,"Trendy Central Square 2BR w/ W/D near MIT & Kendall Square, by Blueground",107434423,4,221.00,0,0,11
+39747612,"Central Square 1BR w/ W/D near MIT & Kendall Square by Blueground",107434423,2,133.00,0,0,11
+39896724,"The NERDpartment in the heart of Cambridge",30490587,5,350.00,5,100,5
+39908171,"Well-Located Porter Square 1BR in Harvard Square, by Blueground",107434423,3,153.00,0,0,1
+39908320,"Porter Square 1BR w/ W/D in building, by Blueground",107434423,2,144.00,0,0,1
+39908347,"Porter Square 1BR w/ W/D in building in Harvard Square, by Blueground",107434423,2,146.00,0,0,1
+39908417,"Harvard Sq 1BR w/ Balcony, near Shops & Campus by Blueground",107434423,3,155.00,0,0,6
+39955033,"Cambridge 2BD 2BTH Basement Apt with Free Parking",2356643,2,125.00,5,100,3
+40552282,"Large 4/5 bed,MIT, Harvard,Tufts,close to Red Line",96961013,4,250.00,0,0,8
+40564625,"Renovated 3 bed,1.5 bath, close to MIT, Harvard",31340713,5,300.00,0,0,9
+40565168,"Renovated 3 Bed,1.5 Bath Close to Harvard and MIT",266312920,5,281.00,0,0,9
+40729475,"Spacious garden-level loft near Harvard Square",66569066,2,149.00,5,94,7
+40807339,"The Historic George Gale House, Lavender Room",16437750,3,195.00,5,100,6
+40814215,"8BD/8BTH MANSARD (SLEEPS 8-36)",81038,5,2000.00,0,0,6
+40886365,"Beautiful West Cambridge Apartment",78446576,2,125.00,5,100,7
+41056764,"Kool furnished bedroom NR central Sq Redline",320886104,1,65.00,0,0,4
+41087815,"Great Location,  great community, top management.",300779126,1,75.00,0,0,8
+41223077,"Corner Kendall Sq 1BR w/ Office Nook, Gym near MIT by Blueground",107434423,3,170.00,0,0,2
+41273964,"Fully Furnished Private Room in Harvard Square",1000338,1,54.00,0,0,1
+41288141,"Studio, Fully Furnished in Harvard Square",1000338,1,60.00,0,0,6
+41379642,"Sweet Sunny Spacious Cambridgeport 1 BR",3406022,2,120.00,0,0,4
+41569941,"Beautiful condo near Harvard Square",81016862,1,42.00,0,0,13
+41570879,"Cozy PRIVATE room in luxury setting (Harvard-MIT)",324990049,1,43.00,0,0,8
+41576602,"Cozy East Cambridge 1BR w/ Gym, DM, W/D, nr. Green Line, by Blueground",107434423,3,159.00,5,100,5
+41605338,"Eloquent Apt Close to Dwntown,bars/Train&Airport",24061028,1,54.00,2,70,12
+41830938,"Furnished 1BR in Cambridge w/ Concierge + Gym",48005494,3,154.00,1,20,2
+41871493,"Cambridge 1BR w/ Gym + Concierge near Transit",48005494,2,149.00,5,100,2
+41871696,"Modern Studio w/ Concierge in Cambridge, + Gym",48005494,2,136.00,0,0,2
+41998167,"2 Bed w/ Parking Near Kendall Square & MIT",43450256,3,200.00,5,100,5
+42089092,"Cozy Central Square 1BR w/ Gym, DM, nr. Central Sq. T Stop, by Blueground",107434423,4,241.00,0,0,11
+42116124,"Cambridge Harvard - MIT Great Room 1",19788941,1,30.00,5,100,11
+42153289,"Beautiful, spacious and sunny 1-bedroom",85005254,1,80.00,0,0,7
+42231352,"Beautiful light filled 3 bed summer 2021 rental",216438589,5,285.00,0,0,11
+42357558,"2 Bed 1 Bath Near MIT",43450256,3,175.00,5,100,5
+42384429,"D1 Porter Sq Private Bedroom",146608239,2,110.00,0,0,7
+42384625,"D2 Private Room at Porter Sq",146608239,1,100.00,0,0,7
+42384839,"D3 Private Room at Porter Sq",146608239,1,100.00,0,0,7
+42385082,"H1 Private Room by Harvard Uni",146608239,1,100.00,0,0,12
+42385305,"H2 Private room close to Harvard Uni",146608239,1,100.00,0,0,12
+42385399,"H3 Private Room close to Harvard Uni",146608239,1,100.00,0,0,12
+42385619,"J1 Private room close to MIT & BU",146608239,1,100.00,0,0,4
+42385742,"J3 Private Bedroom close to BU & MIT",146608239,1,100.00,0,0,4
+42385892,"J2 Private Room close to MIT and BU",146608239,1,100.00,0,0,4
+42638417,"Large King sized bedroom in beautiful Harvard sq!",81016862,1,55.00,0,0,13
+42789288,"Fully-Furnished 2BR near Harvard Sq: HBS HKS MIT",23078,1,99.00,0,0,8
+42888495,"Convenient Studio *parking* 3-min. walk to subway",227996806,1,70.00,4,85,8
+42946067,"Airy Central Square 1BR w/ Gym, DM, nr. Central Sq. T by Blueground",107434423,3,197.00,0,0,11
+43507072,"Master bedroom in Lux 3BR between MIT and Harvard",21631889,1,100.00,0,0,11
+43508069,"Cozy Bedroom in Lux 3BR between MIT and Harvard",21631889,1,67.00,0,0,11
+43554389,"private suite on quiet lane in renovated cottage",6500980,1,85.00,5,100,4
+43688049,"BR in residential area close to MIT and Harvard",1252575,1,40.00,0,0,9
+43704373,"MIT, Harvard. East Bedroom, Semiprivate Bathroom",347407976,1,40.00,5,100,4
+43711601,"MIT, Harvard 1st Fl. Back Bedroom,  Private Bath",347407976,1,61.00,0,0,4
+43723071,"MIT Harvard Large Chocolate Room Semiprivate bthr",347407976,1,56.00,5,100,4
+43736675,"MIT, Harvard. Quiet bedroom, semiprivate bathroom",347407976,1,49.00,5,100,4
+43738940,"MIT, Harvard. Nice Room, Full Private Bath, 2nd Fl",347407976,1,69.00,0,0,4
+43739916,"MIT, Harvard 3rd Fl. Back Studio, Full Priv Bath",347407976,1,72.00,5,100,4
+43747945,"MIT, Harvard. Sunny Bedroom, Full Private Bathroom",347407976,1,53.00,0,0,4
+43748655,"MIT, Harvard. Top 2-room studio",347407976,1,85.00,0,0,4
+43749528,"MIT Harvard Cherry Room, Private Bath 2nd Floor",347407976,1,54.00,5,100,4
+43750288,"Harvard MIT 1st Floor Room, Private Basement Bath",347407976,1,53.00,5,100,9
+43750993,"Harvard, MIT,BU-Flower Room Semiprivate Bath",347407976,1,46.00,0,0,9
+43773648,"Harvard, MIT, BU-Small studio",347407976,1,56.00,4,90,9
+43777157,"Harvard MIT BU -Private Entrance Semiprivate bath",347407976,1,56.00,5,100,9
+43971202,"Decent 1bedroom close to Central square",24061028,1,61.00,0,0,12
+44032605,"Cozy2bedroom in Central square area of Cambridge",24061028,2,135.00,2,67,11
+44110709,"3 Bed 2 Bath Tourist House near Kendall Square",43450256,5,450.00,5,100,5
+44155656,"Harvard & Central Square and Near Charles River",3011415,2,150.00,0,0,9
+44208136,"51 Belmont Street",254174375,2,131.00,5,100,10
+44277437,"Harvard, MIT, BU - 3rd floor One-bedroom Apartment",347407976,1,84.00,0,0,9
+44298962,"Harvard / MIT / Block away to Charles River",21647935,3,200.00,0,0,9
+44299616,"Near Harvard, MIT & Charles River",21647935,2,130.00,0,0,9
+44319631,"Private room in Huron Village - front of house",4642626,1,50.00,0,0,13
+44321809,"3BR Top-Floor Private Apt. Walk to Harvard Sq.",17028791,2,141.00,0,0,13
+44378435,"4 Bed 2 Bath w/ Free Parking Near MIT/Kendall Sq",43450256,5,300.00,0,0,5
+44465410,"3 Bed 2 Bath w/ Free Parking Near MIT & Kendall Sq",43450256,5,350.00,0,0,5
+44643181,"Newly Renovated Private Bedroom A in Harvard",33989517,1,79.00,0,0,6
+44711906,"Private 2BR & Yoga Room in North Cambridge",405341,3,167.00,5,99,8
+44746390,"Live + Work + Stay + Easy | Studio in Cambridge",359229620,2,134.00,0,0,5
+44810870,"Newly Renovated Private Bedroom B in Harvard",33989517,1,69.00,5,100,6
+44952411,"2B AMAZING FLAT PRICE DROPPED FOR MONTHLY STAYS",81038,3,190.00,5,100,6
+45034782,"3B *REDUCED*! HARVARD MIT LOCATION! SPOTLESS 1+BR",81038,3,181.00,5,100,6
+45095072,"Venn | Harvard Square | Spacious Room",277913848,1,89.00,0,0,6
+45144603,"Private bedroom close to Central Sq & BU",364585835,1,53.00,5,94,4
+45155965,"Live + Work + Stay + Easy | 2BR in Cambridge",359229620,4,208.00,0,0,5
+45155970,"Live + Work + Stay + Easy | Studio in Cambridge",359229620,2,129.00,0,0,5
+45164940,"Penthouse Condo with Roof Deck",44939469,1,65.00,0,0,4
+45180836,"Private bedroom close to MIT & BU",364585835,1,51.00,5,94,4
+45180951,"Private bedroom close to MIT & Central Sq",364585835,1,48.00,5,95,4
+45223284,"Live + Work + Stay + Easy | 2BR in Cambridge",359229620,4,210.00,0,0,5
+45225613,"Sunny Historic Home By Harvard Square With W/D!",23983523,1,100.00,5,95,6
+45234240,"Kendall Squares only LUXURY BOUTIQUE HOTEL",365311308,2,138.00,5,99,2
+45313542,"Newly Renovated Private Bedroom C in Harvard",33989517,1,79.00,5,95,6
+45440210,"Spacious Furnished 2BR in East Cambridge (MGH/MIT)",9324473,2,136.00,0,0,5
+45472459,"Spacious & sunny in a top floor home by Harvard Sq",23983523,1,79.00,0,0,6
+45518727,"Apartment with Sunshine close to MIT/Kendall Sq",88868429,1,100.00,5,100,12
+45565590,"IMMEDIATE START 1BD/1BR Furnished Cambridge Apt.",2356643,1,90.00,0,0,3
+45609348,"Penthouse Condo with RoofDeck",44939469,1,50.00,5,100,4
+45609891,"Spacious apartment only minutes to Harvard Square",34301226,2,135.00,5,100,6
+45732176,"Spacious One Bedroom Apartment in Cambridge",22541573,3,165.00,0,0,5
+45732190,"Spacious One Bedroom in Kendall Square, walk to MIT",22541573,3,175.00,0,0,5
+45738943,"1 bedroom with closet in a quiet apartment",369560040,1,70.00,1,40,8
+45738974,"1 master bedroom in an aprt freshly painted .",369560040,1,70.00,1,30,8
+45749812,"Cambridge Home, minutes away from MIT, Kendall",94398426,3,175.00,3,80,11
+45753775,"Room in Kendall",94398426,1,85.00,5,100,4
+45765398,"Spacious apt, 1400 sq ft - 2BR/1BA in Inman Square",1662428,2,126.00,4,90,12
+45771642,"Live + Work + Stay + Easy | 1BR in Cambridge",359229620,3,161.00,0,0,5
+45812304,"Entire apartment near shopping plaza and subway T",369560040,3,199.00,0,0,8
+45878339,"Spacious East Cambridge Apartment with Yard - #1",9324473,2,140.00,5,100,5
+45892257,"Quiet Harvard room in historic Cambridge",35726217,1,70.00,5,100,13
+45928246,"Large room,  convenient to subway",369560040,1,70.00,0,0,8
+45985790,"Stylish 3BR | Full Kitchen | Pool | Laundry | Gym",9419684,5,300.00,0,0,4
+46007606,"Modern 2BR | Full Kitchen | Gym | Charles River",30283594,5,399.00,0,0,4
+46020748,"Spacious+ Private 3 Bedroom | Furnished| Cambridge",30283594,4,250.00,0,0,4
+46025200,"Live + Work + Stay + Easy | Studio in Cambridge",359229620,2,123.00,0,0,5
+46068411,"Sunny, updated, top floor In A historic home!",23983523,1,90.00,3,80,6
+46108993,"Best value & most Attractive Apt at Harvard square",373675137,3,153.00,5,96,13
+46116706,"Two queen bed guestroom in luxury boutique hotel",365311308,2,144.00,5,100,2
+46145328,"NO 1 Cambridge Deal 1 bath/1 Parking/Kitchen/1 BED",373675137,1,41.00,5,100,8
+46171963,"Private bath and Private room with shared kitchen",373675137,1,33.00,0,0,8
+46172169,"Romantic gem at heart of Harvard square",374060072,3,158.00,3,72,6
+46226680,"Top value 1 bed 1 bath with parking at Cambridge",373675137,1,50.00,5,100,8
+46244582,"Most attractive apt in harvard square",373675137,3,151.00,5,97,13
+46266007,"Venn | Sun Bathed Harvard Room| Private Bath",277913848,1,89.00,0,0,6
+46310414,"??????Artists 2BR Apt, Central Cambridge. Book Now!!! ??????",7848820,3,175.00,0,0,6
+46331232,"TOP Cambridge 2bed APT 1parking&private entrance",373675137,1,85.00,5,100,8
+46344417,"Charming 3 bed apt with porch at Harvard Square",373675137,2,148.00,5,100,13
+46345380,"Best Quality Harvard Square serviced Corp Apt",373675137,2,116.00,4,87,13
+46345955,"Best value 2 bed room apt in Cambridge close To T",373675137,1,84.00,5,93,8
+46395614,"Private Room in Cambridge close to Kendall Square",373050156,1,66.00,0,0,5
+46397159,"Private Room in Cambridge close to Kendall Square",373050156,1,80.00,0,0,5
+46397326,"Private Room in Cambridge close to Kendall Square",373050156,1,100.00,0,0,5
+46409412,"Sunny+Spacious Davis/PorterSq w Parking W/D Desks",4397550,4,229.00,0,0,8
+46411283,"Live + Work + Stay + Easy | 2BR in Cambridge",359229620,3,190.00,0,0,5
+46414504,"Cambridge Private Room close to Kendall Square",373050156,1,93.00,0,0,5
+46414649,"Cambridge Private Room close to Kendall Square",373050156,1,93.00,0,0,5
+46414967,"Cambridge Private Room close to Kendall Square",373050156,1,79.00,0,0,5
+46434097,"Spacious Cambridge 2 bed apt free parking & Train",373675137,1,79.00,0,0,8
+46468362,"Private Room in Central Square Cambridge",373050156,1,73.00,0,0,4
+46468535,"Private Room in Cambridge, Great for Students!",373050156,1,80.00,0,0,4
+46468649,"Beautiful Private Room in Central Square Cambridge",373050156,1,80.00,0,0,4
+46468877,"Private Room in Central Square Cambridge",373050156,1,73.00,0,0,4
+46471580,"Sweet Cambridge Home 2 bed APT close HARVARD & MIT",373675137,1,78.00,3,80,8
+46510612,"Private Room in Cambridge, Great for Students!",373050156,1,86.00,0,0,4
+46510755,"Private Room in Cambridge, Great for Students!",373050156,1,86.00,0,0,4
+46549260,"Newly renovated Apt Close to Harvard/MIT",45011296,5,395.00,0,0,6
+46574531,"HeartofHarvardSquareTOP quality  3 bedFreeParking",373675137,3,194.00,5,100,13
+46601986,"Luxury 1 Bedroom Apartment Near MIT/Harvard",22541573,2,130.00,0,0,5
+46602047,"1 Bedroom Walking Distance to MIT/Harvard, Cambridge Views",22541573,2,125.00,0,0,4
+46659113,"Venn | Harvard sq | Room with Private Bath",277913848,2,129.00,5,100,6
+46659757,"Venn | Harvard Square | Spacious Room",277913848,1,99.00,0,0,6
+46660426,"Spacious Central Square Studio w/ Doorman, near T Stop, by Blueground(BOS311)",107434423,2,131.00,0,0,11
+46660436,"Airy Central Square Studio w/Doorman, near Charles River, by Blueground(BOS312)",107434423,2,128.00,0,0,11
+46660463,"Lux Central Square Studio w/ Gym, Doorman, W/D, Roof Deck, by Blueground(BOS313)",107434423,2,146.00,0,0,11
+46660483,"Ample Central Square 1BR w/ Gym, Doorman, Roof Deck, by Blueground(BOS314)",107434423,3,159.00,0,0,11
+46660507,"Cozy Central Square 1BR w/ Gym, Doorman, W/D, Roof Deck, by Blueground(BOS315)",107434423,3,184.00,0,0,11
+46660533,"Roomy Central Square 2BR w/ Gym, W/D, Doorman, near T, by Blueground(BOS316)",107434423,4,245.00,0,0,11
+46660913,"Venn | Harvard Square | Ocean Room",277913848,1,99.00,1,60,1
+46711495,"Spacious bedroom Cambridge/ MIT/ HKS",377541652,1,34.00,5,100,9
+46712324,"For Best 3 bed 1 bath 1 porch 1 parking harvard sq",373675137,2,135.00,5,92,13
+46772818,"Pristine 3BR House w/Garden&Garage near Fresh Pond",18833118,5,675.00,0,0,13
+46777895,"Comfortable 1 bed 1 bath 1 parking in Cambridge",373675137,1,49.00,3,80,8
+46778268,"CambridgeBest2 bed 2 bath 1 kitchen apt 1 parking",373675137,1,65.00,5,100,8
+46780054,"Private entrance, tranquil, minutes to Harvard/MIT",45011296,5,345.00,5,100,6
+46816009,"***Cosy Bedroom - Kendall/Central Sq.",377541652,1,42.00,5,100,6
+46819186,"Sunny Quiet 2 Bedroom near MIT, Harvard & BU",28692801,1,98.00,0,0,4
+46819851,"Wonderful 2 bed 1 bath home in Harvard square",373675137,2,119.00,5,100,13
+46820093,"Marvelous 4 bed 1 bath 1 free parking Harvard SQ",373675137,2,150.00,5,100,13
+46872887,"Perfect 1 Bdr. MIT Near River Charming Smart Apt.",12166108,1,59.00,0,0,5
+46903645,"Most popular 3 bed rooms in Harvard Sq",373675137,3,151.00,1,40,13
+46938818,"Walk To Harvard",379297950,2,119.00,1,20,10
+46956681,"Bright Cambridge 1BR w/ W/D, Elevator, near T & Shops, by Blueground(BOS317)",107434423,3,181.00,0,0,3
+46956699,"Lovely Cambridge 1BR w/ W/D, Elevator, near Shops + Dining, by Blueground (BOS318)",107434423,3,156.00,0,0,7
+46956721,"Airy Porter Square 2BR w/ W/D, Elevator, by Davis Station, by Blueground (BOS319)",107434423,4,221.00,0,0,8
+46974546,"Two Rooms In  A Townhouse By Kendall Square!",23983523,1,90.00,0,0,5
+47092360,"Modern Central Square 1BR w/ W/D, Doorman, near T, by Blueground(BOS 328)",107434423,3,165.00,0,0,11
+47092385,"Gorgeous Central Square 1BR, close to Harvard, MIT, by Blueground(BOS329)",107434423,4,212.00,0,0,11
+47092403,"Bright Central Square 2BR w/ W/D, Gym, near T & Harvard, by Blueground(BOS 330)",107434423,4,245.00,0,0,11
+47120014,"Venn | Harvard Square | Fantastic Studio",277913848,2,125.00,0,0,6
+47185202,"Live + Work + Stay + Easy | 2BR in Cambridge",359229620,3,189.00,0,0,5
+47201231,"Charming one-bedroom in Harvard Square!",381224890,3,200.00,0,0,6
+47223523,"Entire private studio suite in Harvard/MIT",45011296,5,295.00,4,90,6
+47296747,"Central Square - Between Harvard & MIT",74045635,1,35.00,5,100,4
+47500936,"The Ambiente@Cambridge",270651080,2,118.00,0,0,12
+47538101,"SoloPrivate Space",270651080,1,85.00,5,100,11
+47594896,"Live + Work + Stay + Easy | 1BR in Cambridge",359229620,2,133.00,0,0,5
+47703691,"ENTIRE APT: Bright Sun Drenched Spot in Cambridge!",886226,1,85.00,5,93,12
+47718562,"[Short/Long term Rental OK] Spacious Sunshine Room",56041851,1,48.00,0,0,4
+47770402,"Best HARVARD SQ MONTHLY RENT DEAL FOR STUDENTS",373675137,2,145.00,0,0,13
+47803310,"SUN-DRENCHED 3 BED/2 BATH with ROOFTOP DECK HAVEN",59247533,3,170.00,0,0,8
+47988128,"One Bedroom in Harvard Square - Cambridge, MA",53516068,1,95.00,0,0,13
+48030574,"Cambridge Central Square Apartment by Harvard, MIT",21061615,2,140.00,0,0,6
+48088551,"1ST FL, Walking distance to Kendall Square and MIT",321190269,2,113.00,0,0,5
+48107460,"I2 Private Room by Kendall Sq",218493228,1,46.00,5,100,12
+48108594,"Private room next to MIT/Harvard 3",247533528,1,47.00,1,20,6
+48121941,"A+ Heart of Harvard Square 3 bed Apt",373675137,2,101.00,0,0,13
+48133037,"Live + Work + Stay + Easy | Studio in Cambridge",359229620,2,123.00,0,0,5
+48157277,"Rice Street Studio",374663992,2,116.00,5,100,8
+48183196,"Private Ensuite Close to MIT and Kendall Sq.",380148681,1,54.00,0,0,12
+48233578,"Luxury ALL NEW apartment in Cambridge-STEAL!",192382892,2,128.00,0,0,12
+48243005,"Best deal 1 bed 1 bath cambridge close to Harvard",373675137,1,55.00,0,0,8
+48266384,"Cozy room in Cambridge next to Kendall, MIT, Inman",5938188,1,40.00,0,0,12
+48268174,"BestValueMost Wonderful 3 Bed Room Apt in Boston",373675137,5,299.00,0,0,13
+48285207,"Best student apartment Harvard square 3 bedroom",380623623,2,120.00,0,0,13
+48287177,"Cozy room 5 min away from Kendall square,Cambridge",5938188,1,35.00,0,0,12
+48317989,"Perfect location 2 mins from Central square!",192382892,1,45.00,0,0,11
+48327218,"Central Square Luxury | Pet Friendly | Short stays",365116307,2,133.00,0,0,11
+48328187,"New to Airbnb | Students Welcome | Central Square",365116307,2,150.00,0,0,11
+48329124,"Luxury Pet-Friendly Loft with Laundry + Utilities",365116307,2,120.00,0,0,6
+48335399,"Top harvard sq 3 bed room entire Apartment",373675137,2,120.00,0,0,13
+48340105,"Walk to Harvard + MIT | Luxury Apt | Private Patio",365116307,3,170.00,0,0,11
+48348843,"Incredible View | Pet-Friendly | Short + Long Term",365116307,2,115.00,0,0,4
+48483259,"Live + Work + Stay + Easy | Studio in Cambridge",359229620,2,120.00,0,0,5
+48506943,"Cute first-floor apartment close to Harvard Yard",9793577,2,120.00,0,0,9
+48606573,"Spacious Room with Private Bath in Harvard/MIT",45011296,2,108.00,0,0,6
+48611251,"Spacious 1BR unit with FREE meal near Harvard/MIT",93531659,1,98.00,0,0,12
+48640925,"1st floor apartment quiet street nr Avon Hill 34-1",9793577,2,135.00,0,0,7
+48643097,"2nd floor apartment on quiet street near Avon Hill",9793577,2,121.00,0,0,7
+48676223,"Private Bedroom-4BR/2BA Home w/ Off-Street Parking",25654103,1,40.00,0,0,8
+48676645,"Private Bedroom- 4BR Home w/ Off-Street Parking #2",25654103,1,40.00,0,0,8
+48676813,"Private Bedroom- 4BR Home w/ Off-Street Parking #3",25654103,1,40.00,0,0,8
+48676947,"Private Bedroom- 4BR Home w/ Off-Street Parking #4",25654103,1,54.00,0,0,8
+48751068,"Live + Work + Stay + Easy | Studio in Cambridge",359229620,2,130.00,0,0,5
+48811669,"Spacious, Sunny Room In Townhouse By Kendall Sq!",23983523,1,40.00,0,0,5
+48821977,"Live + Work + Stay + Easy | 1BR in Cambridge",359229620,2,140.00,0,0,5
+48826315,"Live + Work + Stay + Easy | 1BR in Cambridge",359229620,2,145.00,0,0,5
